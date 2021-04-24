@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'gabrielaregular'; 
+    src: url('../fuentes/gabriela-regular-webfont.woff2') format('woff2'),
+         url('../fuentes/gabriela-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'jfwilwod';
+    src: url('../fuentes/jfwilwod-webfont.woff2') format('woff2'),
+         url('../fuentes/jfwilwod-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'jfwilwod';
+    src: url('../fuentes/jfwilwod-webfont.woff2') format('woff2'),
+         url('../fuentes/jfwilwod-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 4.5em;
+    margin: 0.67em 0;
+}
+
+
+h2{
+    font-family: 'jfwilwod';
+    src: url('../fuentes/jfwilwod-webfont.woff2') format('woff2'),
+         url('../fuentes/jfwilwod-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+    font-size: 2.4em;
+    margin: 0.67em 0;
+}
+
+h3{
+    font-family: 'gabrielaregular';
+    src: url('../fuentes/gabriela-regular-webfont.woff2') format('woff2'),
+         url('../fuentes/gabriela-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+    font-size: 2em;
+}
+
+h4{
+    font-family: 'gabrielaregular';
+    src: url('../fuentes/gabriela-regular-webfont.woff2') format('woff2'),
+         url('../fuentes/gabriela-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+    color: rgb(51, 170, 170);
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-family: 'gabrielaregular';
+    src: url('../fuentes/gabriela-regular-webfont.woff2') format('woff2'),
+         url('../fuentes/gabriela-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.3em;
+}
